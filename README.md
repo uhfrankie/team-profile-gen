@@ -1,4 +1,4 @@
-#  Challenge
+#  Team Profile Generator
 
 <h1> User Story </h1>
 <p>
