@@ -1,10 +1,10 @@
-# Employee Tracker Challenge
+#  Challenge
 
 <h1> User Story </h1>
 <p>
-AS A business owner 
-I WANT to be able to view and manage the departments, roles, and employees in my company
-SO THAT I can organize and plan my business
+AS A manager
+I WANT to generate a webpage that displays my team's basic info
+SO THAT I have quick access to their emails and GitHub profiles
 </p>
 
 <h2> Screenshots </h2>
