@@ -1,0 +1,23 @@
+.profileHeader{
+    background-color: lightgray;
+    text-align: center;
+    color: lightcoral;
+}
+
+
+.card {
+    box-shadow: 5px 5px 5px grey;
+}
+
+.card-header {
+    background-color: lightgray !important;
+    text-align: center;
+    color: lightcoral !important;
+}
+
+.employee-info {
+    width: 75%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+}
